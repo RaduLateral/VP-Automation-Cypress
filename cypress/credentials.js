@@ -1,7 +1,4 @@
-var credentials = { 
-    email: 'admin.test.rubicon@gmail.com',
-    password: 'Rubi$Admin',
-    vendor: 'Auto_Vendor',
+var credentials = {     
     customerName: 'Automation Customer',
     customerType: 'Business',
     dailyRouteName: 'Automation_Daily_Route',
